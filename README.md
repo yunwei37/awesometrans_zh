@@ -8,6 +8,10 @@
 
 ## 信息
 
+### 资源库
+
+- [跨性别与多元性别档案库](https://digital.transchinese.org/)
+
 ### 百科
 
 - [MtF.wiki](https://mtf.wiki)：面向中国大陆
